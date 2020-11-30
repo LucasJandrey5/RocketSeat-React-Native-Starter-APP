@@ -6,7 +6,7 @@ import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native
 
 class Main extends Component {
   static navigationOptions = {
-    title: 'Main',
+    title: 'Main Page',
   };
 
   state = {
